@@ -12,3 +12,8 @@ i.e. each row starting from the second one should have a task, its duration and 
 
 ## Test it
 The project can be tested with the simple tkinter GUI by running ```gui.py``` with the python3 interpreter, although all the important code is in ```pert.py``` which can also be run after specifying which file is to be loaded.
+
+
+
+
+this is a note
